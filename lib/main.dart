@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:suzer_ecom_appp/screens/home_screen.dart';
+import 'package:suzer_ecom_appp/presentation/screens/home/home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +25,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
+      debugShowCheckedModeBanner: false,
       home: const HomeScreen(),
     );
   }

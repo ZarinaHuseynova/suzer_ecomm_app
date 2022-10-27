@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530112880817",
+    "project_id": "suzer-e-comm-app",
+    "storage_bucket": "suzer-e-comm-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530112880817:android:eb965ec3c755f12e33c290",
+        "android_client_info": {
+          "package_name": "com.example.suzer_ecom_appp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530112880817-o2k4lufldovricjp1e5hb8ek8752hc77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOmunf4TVr2kvBUELB-AShlYNn-q6kVos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530112880817-o2k4lufldovricjp1e5hb8ek8752hc77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
